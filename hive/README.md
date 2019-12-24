@@ -49,6 +49,9 @@
 
 ![etape X](https://github.com/Jean-Baptiste-Lasselle/comparatif-x3/raw/master/images/Screenshot%20from%202019-12-24%2006-18-15.png)
 
+### Le pseudo kanban
+
+![pseudo-kanban](https://github.com/Jean-Baptiste-Lasselle/comparatif-x3/raw/master/images/Firefox_Screenshot_2019-12-24T10-37-17.483Z.png)
 
 
 
